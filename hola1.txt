@@ -1,0 +1,11 @@
+Hola GIT
+
+git init => Creamos repo
+git status => Vemos info del repo.
+git add . => Pasar archivo al area de seguimiento.
+git commit -m "Un mensaje representativo"
+git remoto add origin (URL)
+git push origin master = Subo los commits al remoto
+git pull origin master = Trae los commits nuevos del remoto
+git clone = Clona repo
+git log = Se observan los commits realizados por quien los hizo
