@@ -9,3 +9,6 @@ git push origin master = Subo los commits al remoto
 git pull origin master = Trae los commits nuevos del remoto
 git clone = Clona repo
 git log = Se observan los commits realizados por quien los hizo
+
+
+Cuando un repo no es nuestro y queremos clonarlo para luego hacer cambios y mandar un git push, debemos utilizar un fork sobre ese repo y luego clonarlo desde nuestro repo.
